@@ -10,5 +10,8 @@
     "rangequest"
   ],
   "author": "Praveen Dias",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.4.1"
+  }
 }
